@@ -1,0 +1,4 @@
+﻿[
+  { "Url": "https://jsonplaceholder.typicode.com/posts", "Method": "GET", "Body": "", "NeedParam": false },
+  { "Url": "https://jsonplaceholder.typicode.com/posts", "Method": "POST", "Body": "{\"title\": \"foo\", \"body\": \"bar\", \"userId\": 1}", "NeedParam": true }
+]
